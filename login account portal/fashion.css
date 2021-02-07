@@ -1,0 +1,49 @@
+.signinclass
+{
+	background-color:#34c890;
+	
+
+}
+.card
+{
+	margin-top: 5.5rem;
+    box-shadow: 5px , 5px, 5px, rgba(0,0,0,.5);
+   -moz-box-shadow: 5px , 5px, 5px, rgba(0,0,0,.5); 
+}
+/*box shadow not working */
+img.signin-img
+{
+	padding: 0 2rem 2rem;
+
+	/*mens 0 margin from top 2/
+	//left and right caption-side
+n 2 from bottom*/
+margin-left: 25%;
+width:auto;
+}
+.thick
+{   margin:auto;
+	width:50%;
+}
+.create
+{
+	background-color: green;
+	padding:auto;
+	width: 100%;
+	line-height: 40px;
+	border-color: green;
+	border-width: 0px;
+	border-radius: 2.5px;
+	color:white;
+	font-size: 16px;
+	text-align: center;
+	
+
+}
+.account
+{
+	padding: auto;
+    margin-left: 40%;
+    color:blue;
+    font size:16px;
+}
